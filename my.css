@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:white;
+    line-height: 1.6;
+}
+
+.header {
+    background-color: rgb(213, 91, 3);
+    color: gold;
+    text-align: center;
+    line-height: 100px;
+    height: 100px;
+}
+
+.header h1 {
+    font-size: 2rem;
+}
+
+.header:hover {
+    background-color: rgba(232, 100, 6, 0.99);
+}
+
+.about {
+    background-color: rgb(213, 91, 3);
+    text-align: center;
+    color: gold;
+    height: 100px;
+}
+
+.about p {
+    color: white;
+}
+
+.about h2 {
+    font-size: 1.8rem;
+}
+
+.about:hover {
+    background-color: rgba(232, 100, 6, 0.99);
+}
+
+.booklist {
+    background-color: rgb(213, 91, 3);
+    text-align: center;
+}
+
+.booklist h2 {
+    color: gold;
+}
+
+.booklist:hover {
+    background-color: rgba(232, 100, 6, 0.99);
+}
+
+.event {
+    background-color: rgb(213, 91, 3);
+    text-align: center;
+}
+
+.event h2 {
+    color: gold;
+}
+
+.event p {
+    color: white;
+
+}
+
+.hello{
+    background-color: rgb(103, 201, 6);
+    color: white;
+    height: 50px;
+    font-size: 1rem;
+    border: none;
+    width: 120px;
+
+}
+
+.event:hover {
+    background-color: rgba(232, 100, 6, 0.99);
+}
+
+.hello:hover {
+
+    background-color: rgb(148, 243, 52);
+}
+li{
+    list-style-type: none;
+}
